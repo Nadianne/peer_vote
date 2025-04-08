@@ -47,7 +47,7 @@
 ```bash
 python gerar_chaves.py
 python gerar_chave_simetrica.py
-
+```
   ## 🧾 Passo 2 – Inicie o servidor de tempo para sincronizar todos os nós
 (Images/03.png)
 ```bash
@@ -72,11 +72,11 @@ Ex: python3 cliente_voto.py usuario1 8001 9001
 ```bash
 python3 descriptografar_resultado.py <id_do_nó> 
 Ex: python3 descriptografar_resultado.py usuario1
+```
 
 👨‍💻 Autoria
 Desenvolvido por Nadianne Galvão
 Disciplina: Sistemas Distribuídos
-
 ![Thank You Style](https://www.gifcen.com/wp-content/uploads/2023/06/thank-you-gif-14.gif)
 
 🖤 Obrigada! 
