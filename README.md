@@ -1,4 +1,4 @@
- #Peer_vote
+ # Peer_vote
 
  Projeto da disciplina de Sistemas distribuídos. 
  
@@ -81,7 +81,7 @@ Desenvolvido por: Nadianne Galvão
 
 Disciplina: Sistemas Distribuídos
 
-![Thank You Style]([https://www.gifcen.com/wp-content/uploads/2023/06/thank-you-gif-14.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M5ODVrdGRldnlzejM1cGcwcmFtbmc3OGpxZ2Z4MGdmZzRrdmluNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7JG6cq7EWesFcQ/giphy.gif))
+![Thank You Style]([https://www.gifcen.com/wp-content/uploads/2023/06/thank-you-gif-14.gif])
 
 🖤 Obrigada! 
 
