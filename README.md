@@ -2,7 +2,7 @@
 
  Projeto da disciplina de Sistemas distribuídos. 
  
- Sistema de votação P2P com segurança avançada: criptografia híbrida (RSA + AES), assinatura digital, sincronização de horário e distribuição de resultados entre nós. 
+ Sistema de votação P2P com segurança, contendo criptografia híbrida (RSA + AES), assinatura digital, sincronização de horário e distribuição de resultados entre nós. 
 
  # 🗳️ PeerVote — Sistema de Votação P2P com Criptografia e Segurança
 
@@ -76,12 +76,11 @@ python3 descriptografar_resultado.py <id_do_nó>
 Ex: python3 descriptografar_resultado.py usuario1
 ```
 
-###👨‍💻 Autoria
+### 👨‍💻 Autoria
 Desenvolvido por: Nadianne Galvão
 
 Disciplina: Sistemas Distribuídos
 
-![Thank You Style]([https://www.gifcen.com/wp-content/uploads/2023/06/thank-you-gif-14.gif])
 
 🖤 Obrigada! 
 
