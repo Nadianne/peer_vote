@@ -1,0 +1,11 @@
+chaves_privadas/
+chaves_simetricas/
+id_votante.txt
+inicio_votacao_global.txt
+peers.json
+votos/
+votos_corrigidos/
+*.csv
+*.txt
+__pycache__/
+venv/
