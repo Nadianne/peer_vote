@@ -42,7 +42,7 @@
   # 🗳️ Passo a Passo
 
   ## 🧾 Passo 1 – Gerar Chaves
-(Images/01.png)
+![Passo 1](Images/01.png)
 (Images/02.png)
 ```bash
 python gerar_chaves.py
