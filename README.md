@@ -70,7 +70,7 @@ Ex: python3 cliente_voto.py usuario1 8001 9001
 ```
   ## 🧾 Passo 5 – Descriptografe o resultado recebido com seu ID
 ![Passo 8](Images/08.png)
-![Passo 9](Images/09.png)
+![Passo 9](Images/09png)
 ```bash
 python3 descriptografar_resultado.py <id_do_nó> 
 Ex: python3 descriptografar_resultado.py usuario1
